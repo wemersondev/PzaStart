@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\wemerson.santos\\source\\repos\\ExemploGitHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E078EB66-0C99-4D79-8BCD-6CD6B7298698}|ExemploGitHub\\ExemploGitHub.csproj|c:\\users\\wemerson.santos\\source\\repos\\exemplogithub\\exemplogithub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E078EB66-0C99-4D79-8BCD-6CD6B7298698}|ExemploGitHub\\ExemploGitHub.csproj|solutionrelative:exemplogithub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35515246-595D-458A-4CD4-75FBBE38A700}|ExemploGitHub\\ExemploGitHub.csproj|c:\\users\\wemerson.santos\\source\\repos\\exemplogithub\\exemplogithub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35515246-595D-458A-4CD4-75FBBE38A700}|ExemploGitHub\\ExemploGitHub.csproj|solutionrelative:exemplogithub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "ExemploGitHub\\Program.cs",
               "ToolTip": "C:\\Users\\wemerson.santos\\source\\repos\\ExemploGitHub\\ExemploGitHub\\Program.cs",
               "RelativeToolTip": "ExemploGitHub\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T01:58:49.252Z",
               "EditorCaption": ""
